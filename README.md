@@ -50,7 +50,7 @@ Mono、WB、Tone、OES、C1-C5 Wi-Fi writer、韌體與完整成像演算法不�
 這是署名方式說明，不添加 CC BY 4.0 以外的使用限制；完整權利義務以 LICENSE 為準。
 文件依現況提供，不保證內容完整、任意 JPG 相容或適合特定用途，詳見授權條款的免責規定。
 
-文件授權已確認；實際 GitHub 上傳尚未執行。
+文件授權已確認。本研究文件已公開於此儲存庫的 `main` 分支，目前沒有 GitHub Release。
 
 ## English Summary
 
@@ -59,4 +59,4 @@ They distinguish byte observations from historical Workspace verification claims
 Offsets are layout-specific, not a universal JPEG specification. Historical firmware, Workspace and OS versions remain `UNKNOWN`.
 No application code, photos, templates, icons, calibration data or executable is distributed.
 The authored research documentation is licensed under [CC BY 4.0](LICENSE); this does not license the full application or omitted third-party material.
-Credit the project as **OM-3 Recipe JPG Color Wheel Notes**, retain the source and license links, and indicate changes. GitHub publication has not yet been performed.
+Credit the project as **OM-3 Recipe JPG Color Wheel Notes**, retain the source and license links, and indicate changes. These research notes are available on this repository’s public `main` branch. No GitHub Release has been published.
